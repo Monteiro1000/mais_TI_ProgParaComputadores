@@ -1,0 +1,7 @@
+{
+  "usuarios": [
+    { "id": 1, "nome": "Ana Souza", "email": "ana@email.com", "senha": "1234", "interesses": [] },
+    { "id": 2, "nome": "Carlos Lima", "email": "carlos@email.com", "senha": "abcd", "interesses": [] }
+  ],
+  "proximoIdUsuario": 3
+}
